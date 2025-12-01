@@ -16,11 +16,10 @@ Countries are also linked to both the Primary_Language and Currency entities thr
 
 Overall, this model provides a complete and relational view of global data, connecting regions, countries, and their key social, economic, environmental, and cultural attributes. It enables meaningful exploration of how national characteristics relate to one another across regions of the world.
 
-![IMAGE](https://github.com/user-attachments/assets/e11fdc98-4a38-403e-8c1e-d1e184863103)
+![IMAGE](https://github.com/user-attachments/assets/9876c158-8ead-40a6-9b9a-536fc6a70577)
 
 ## Data Dictionary
 <img width="524" height="82" alt="artist" src="https://github.com/user-attachments/assets/dec91870-9fa9-4ce4-ad28-77b8599b46e1" />
-
 
 <img width="524" height="101" alt="album" src="https://github.com/user-attachments/assets/4a4ab13d-8812-41fc-9453-d12b02e0a034" />
 
