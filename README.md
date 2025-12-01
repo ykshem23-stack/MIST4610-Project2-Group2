@@ -85,13 +85,13 @@ Query 3 helps analysts compare sales performance across countries and identify w
 
 Query 4 helps analysts identify which artists are most popular and generate the highest demand among customers. This information can guide decisions related to promotions, featured playlists, licensing investments, and understanding which artists contribute most to overall store performance.
 
-<img width="913" height="427" alt="query4" src="https://github.com/user-attachments/assets/a1971a10-d302-469c-9924-43d3d893452a" />
+<img width="1552" height="800" alt="query4" src="https://github.com/user-attachments/assets/440dd3ca-d17d-4455-ad27-054af5fe4154" />
 
 5.  Query 5 lists each employee’s name, job title, days employed, the total revenue generated from their assigned customers, and their average revenue per customer.
 
 Query 5 helps identify which employees contribute the most to company revenue, allowing managers to evaluate performance, recognize top performers, and determine where additional training or support may be needed. This analysis supports workforce planning, sales strategy, and customer relationship management.
 
-<img width="913" height="428" alt="query5" src="https://github.com/user-attachments/assets/efd94541-e4da-499a-98f1-556a877c16c4" />
+<img width="1563" height="319" alt="query5" src="https://github.com/user-attachments/assets/055aa66b-8852-4ea8-ac97-255811ff458e" />
 
 
 
