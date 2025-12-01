@@ -6,9 +6,8 @@
 - Ivan Jaiwant
 - Yusuf Kshem
 ## Data Model
-Our model is based on the structure of global regions and the countries that belong to them. The Region entity represents large geographic areas across the world, containing attributes such as regionID, regionName, areaSqKm, climateZone, and description. Each region contains many countries, which is why there is a one-to-many relationship between the Region and Country entities.
-
 For this project, we used the Chinook Music Store database and made the data model based on it. The database connects customers, invoices, tracks, albums, artists, genres, etc in order to analyze the sales performance from mutlpel different angles. With the help of the model, we were able to create queries that allows us to see business metrics such as, total revenue by genre, purchase frequency, and employee revenue .The visualizations also bring up key insights such as revenue being concentrated in a few top performing countries, most customers are occasional buyers with only a small segemt of them purchasing frequently, and  that  some of the artists genrate a disproportionate share of revenue. Both the model and the visualizations shows that the Chinook Music Store relies on a strong market, high demand artists, and a small loyal customer base. Due to this there can be opportunities to grow the mid tier counties while stringhteing the retention programs, and promoting top and emerging artists to diversify in order to increase the overall revenue. 
+
 
 ![IMAGE](https://github.com/user-attachments/assets/04755b08-36f2-4f99-82b5-ec9a010370d9)
 
