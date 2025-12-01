@@ -81,15 +81,15 @@ Query 3 helps analysts compare sales performance across countries and identify w
 
 <img width="913" height="424" alt="query3" src="https://github.com/user-attachments/assets/9b4c66c4-b9bb-4e18-98bd-0a182d68f00b" />
 
-4.  Query 4 lists each artist’s name, the total number of albums and tracks they have, the total revenue generated from their music, and assigns a demand category based on how many tracks were sold (very high, high, moderate, or low demand).
+4.  Query 4 lists each artist’s name, the number of albums they have released, the total number of tracks they produced, the total revenue generated from their music, and assigns a demand label based on the number of tracks sold (very high, high, moderate, or low demand).
 
-Query 4 helps analysts identify which artists are most popular and generate the highest demand among customers. This information can guide decisions related to promotions, featured playlists, licensing investments, and understanding which artists contribute most to overall store performance.
+Query 4 helps identify which artists are most popular and generate the most listener demand, allowing the business to understand which artists drive revenue and should be prioritized in marketing, playlist placement, inventory expansion, or promotional campaigns.
 
 <img width="1552" height="800" alt="query4" src="https://github.com/user-attachments/assets/440dd3ca-d17d-4455-ad27-054af5fe4154" />
 
-5.  Query 5 lists each employee’s name, job title, days employed, the total revenue generated from their assigned customers, and their average revenue per customer.
+5.  Query 5 lists each employee’s full name, job title, the number of days they have been employed, the total revenue generated from the customers they support, and their revenue per customer.
 
-Query 5 helps identify which employees contribute the most to company revenue, allowing managers to evaluate performance, recognize top performers, and determine where additional training or support may be needed. This analysis supports workforce planning, sales strategy, and customer relationship management.
+Query 5 provides insight into employee performance by showing which support agents contribute the most to sales through their managed customers, helping management make informed decisions about employee development, workload balancing, recognition, and resource allocation.
 
 <img width="1563" height="319" alt="query5" src="https://github.com/user-attachments/assets/055aa66b-8852-4ea8-ac97-255811ff458e" />
 
