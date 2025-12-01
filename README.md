@@ -1,7 +1,7 @@
 # Group 2 MIST 4610 Project 2
 
 ## Team Members
-- Yesha Ghandi
+- Yesha Gandhi
 - Bradley Guy
 - Ivan Jaiwant
 - Yusuf Kshem
