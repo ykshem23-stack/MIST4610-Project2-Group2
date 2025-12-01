@@ -1,4 +1,4 @@
-# Group 2 MIST 4610 Project 1
+# Group 2 MIST 4610 Project 2
 
 ## Team Members
 - Yesha Ghandi
@@ -15,7 +15,7 @@ Each country in the model contains a variety of national-level data that is stor
 Countries are also linked to both the Primary_Language and Currency entities through associative tables to capture many-to-many relationships. The Primary_Language_has_Country table allows multiple countries to share the same language while also allowing a single country to have several official languages. Similarly, the Currency_has_Country table connects countries to the currencies they use, since some nations share the same currency and others recognize more than one.
 
 Overall, this model provides a complete and relational view of global data, connecting regions, countries, and their key social, economic, environmental, and cultural attributes. It enables meaningful exploration of how national characteristics relate to one another across regions of the world.
-![IMAGE](https://github.com/user-attachments/assets/35471669-c92e-40db-8c32-323c0f5fa82c)
+![IMAGE](https://github.com/user-attachments/assets/e11fdc98-4a38-403e-8c1e-d1e184863103)
 
 ## Data Dictionary
 <img width="536" height="234" alt="Table_region" src="https://github.com/user-attachments/assets/5d47992f-7719-450e-b5cf-c5bba8599f73" />
