@@ -97,6 +97,7 @@ Query 5 provides insight into employee performance by showing which support agen
 
 
 ## Visualizations
+[Chinook Music Store Analytics Dashboard.pdf](https://github.com/user-attachments/files/23844980/Chinook.Music.Store.Analytics.Dashboard.pdf)
 
 ### Country Performance by Revenue
 
