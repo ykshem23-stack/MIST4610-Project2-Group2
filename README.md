@@ -16,7 +16,7 @@ Countries are also linked to both the Primary_Language and Currency entities thr
 
 Overall, this model provides a complete and relational view of global data, connecting regions, countries, and their key social, economic, environmental, and cultural attributes. It enables meaningful exploration of how national characteristics relate to one another across regions of the world.
 
-![IMAGE](https://github.com/user-attachments/assets/9876c158-8ead-40a6-9b9a-536fc6a70577)
+![IMAGE](https://github.com/user-attachments/assets/04755b08-36f2-4f99-82b5-ec9a010370d9)
 
 ## Data Dictionary
 <img width="524" height="82" alt="artist" src="https://github.com/user-attachments/assets/dec91870-9fa9-4ce4-ad28-77b8599b46e1" />
@@ -56,7 +56,7 @@ Overall, this model provides a complete and relational view of global data, conn
 
 
 ## Queries
-<img width="350" height="142" alt="querycheck" src="https://github.com/user-attachments/assets/36ae3897-dd70-4ccc-8b98-fe25c8afc977" />
+<img width="704" height="292" alt="querycheck" src="https://github.com/user-attachments/assets/a4ed96b2-f3f0-4d50-bdf8-7b8adeb9cae3" />
 
 1.  Query 1 lists the region name, the inflation category (High or Low), the number of countries in each category, and CPI statistics.
 
