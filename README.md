@@ -15,32 +15,31 @@ Each country in the model contains a variety of national-level data that is stor
 Countries are also linked to both the Primary_Language and Currency entities through associative tables to capture many-to-many relationships. The Primary_Language_has_Country table allows multiple countries to share the same language while also allowing a single country to have several official languages. Similarly, the Currency_has_Country table connects countries to the currencies they use, since some nations share the same currency and others recognize more than one.
 
 Overall, this model provides a complete and relational view of global data, connecting regions, countries, and their key social, economic, environmental, and cultural attributes. It enables meaningful exploration of how national characteristics relate to one another across regions of the world.
+
 ![IMAGE](https://github.com/user-attachments/assets/e11fdc98-4a38-403e-8c1e-d1e184863103)
 
 ## Data Dictionary
-<img width="536" height="234" alt="Table_region" src="https://github.com/user-attachments/assets/5d47992f-7719-450e-b5cf-c5bba8599f73" />
+<img width="524" height="82" alt="artist" src="https://github.com/user-attachments/assets/dec91870-9fa9-4ce4-ad28-77b8599b46e1" />
 
-<img width="542" height="245" alt="table_country" src="https://github.com/user-attachments/assets/0ca62732-9b52-4c55-afc5-dacb2280e220" />
+<img width="524" height="101" alt="album" src="https://github.com/user-attachments/assets/4a4ab13d-8812-41fc-9453-d12b02e0a034" />
 
-<img width="538" height="206" alt="table_city" src="https://github.com/user-attachments/assets/7186db86-5ccf-4990-8321-7fe0b65a20b4" />
+<img width="525" height="342" alt="employee" src="https://github.com/user-attachments/assets/67515b77-de4b-46ac-b270-83aa6aec003b" />
 
-<img width="537" height="179" alt="table_demo" src="https://github.com/user-attachments/assets/f48bbd2c-0fa2-46ca-9353-4d676ed6e8a8" />
+<img width="525" height="322" alt="customer" src="https://github.com/user-attachments/assets/03ef0d99-a427-4be4-950d-81506cfe68d1" />
 
-<img width="541" height="170" alt="table_labor" src="https://github.com/user-attachments/assets/21e048d6-7b58-4a1b-b1a7-98ffa17189d3" />
+<img width="524" height="81" alt="genre" src="https://github.com/user-attachments/assets/2fea49e1-0eb0-4b02-8eae-aeece1b698aa" />
 
-<img width="536" height="283" alt="table_econ" src="https://github.com/user-attachments/assets/9b13dad8-b3b6-4821-a9dd-80f70cacaa60" />
+<img width="526" height="82" alt="mediatype" src="https://github.com/user-attachments/assets/8e4e2142-48fe-40b5-aa67-c2acf84e6f15" />
 
-<img width="539" height="185" alt="table_educ" src="https://github.com/user-attachments/assets/c4353fd1-212b-4cd5-87fb-a3f78f8889f2" />
+<img width="527" height="220" alt="track" src="https://github.com/user-attachments/assets/055adaa3-d598-438a-85bb-91aca0318d96" />
 
-<img width="539" height="283" alt="table_health" src="https://github.com/user-attachments/assets/85d3e96e-970a-43a5-98ae-209fd2fd1a60" />
+<img width="526" height="221" alt="invoice" src="https://github.com/user-attachments/assets/d1937d27-97fb-43dd-aeab-1968999a871b" />
 
-<img width="523" height="260" alt="table_env" src="https://github.com/user-attachments/assets/19782141-b31e-4cff-aff6-c79666fc2a12" />
+<img width="526" height="140" alt="Invoiceline" src="https://github.com/user-attachments/assets/dca6bd77-140b-4d08-b575-57eb60dbcce1" />
 
-<img width="524" height="189" alt="table_primary_language" src="https://github.com/user-attachments/assets/f19e21cb-6f56-4349-83cb-e37cb0c3e225" />
+<img width="525" height="83" alt="playlist" src="https://github.com/user-attachments/assets/36e5f079-0c65-4f1d-a386-19282fe0cbd2" />
 
-<img width="524" height="188" alt="table_currency" src="https://github.com/user-attachments/assets/f78cd932-7fb8-467f-9e9c-1a4f5a4a980d" />
-
-<img width="521" height="142" alt="table_currency_has_country" src="https://github.com/user-attachments/assets/012e24e9-2ccb-42bb-a5d1-c7f49603c5e8" />
+<img width="525" height="80" alt="playlisttrack" src="https://github.com/user-attachments/assets/c9a61288-af2f-4593-b4dd-e3d4c3062da4" />
 
 
 ## Queries
