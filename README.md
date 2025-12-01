@@ -98,6 +98,12 @@ Query 5 provides insight into employee performance by showing which support agen
 
 ## Visualizations
 
+# Country Performance by Revenue
+
+# Top 5 Artists by Revenue
+
+# Number of Customers per Purchase Frequency
+
 ## Database Info
 Name of the database: cs_yrk51993
 
