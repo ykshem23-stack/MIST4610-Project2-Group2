@@ -63,33 +63,33 @@ Customer listening behavior and curated content are modeled through Playlist and
 ## Queries
 <img width="1056" height="438" alt="querycheck" src="https://github.com/user-attachments/assets/a4ed96b2-f3f0-4d50-bdf8-7b8adeb9cae3" />
 
-1.  Query 1 lists the region name, the inflation category (High or Low), the number of countries in each category, and CPI statistics.
+1.  Query 1 lists the genre name, the total number of orders, the total number of tracks sold, the total revenue generated, and average revenue metrics (average order value and revenue per order) for each genre.
 
-Query 1 helps analysts see which regions are experiencing high or low inflation relative to the global average. This information could guide economic policy decisions or investment strategies, highlighting regions where inflation is most severe or stable.
+Query 1 helps analysts understand which music genres drive the most sales and revenue for the store. This information highlights the genres that are most popular, most profitable, and most frequently purchased, supporting decisions related to marketing, inventory expansion, licensing priorities, and customer targeting.
 
 <img width="779" height="328" alt="query1" src="https://github.com/user-attachments/assets/3d62c248-ef46-4e55-b13c-faab318213cf" />
 
-2.  Query 2 lists the region name, education tier (Low, Mixed, High), the number of countries in each tier, average minimum wage, and average primary and tertiary enrollment. 
+2.  Query 2 lists each customer’s name, total number of orders, average order value, and assigns two classifications: a customer value tier (high, medium, or low) and a purchase frequency category (frequent, regular, or occasional).
 
-Query 2 provides insight into the relationship between educational investment and economic outcomes by region. By identifying whether higher education levels correlate with higher wages, policymakers or international organizations can better target initiatives to improve economic performance.
+Query 2 helps analysts understand the purchasing habits and value level of each customer. By grouping customers into behavior-based segments, the business can identify its most profitable and loyal customers, target marketing efforts more effectively, and design retention strategies tailored to different customer groups. This segmentation supports stronger customer relationship management and more efficient decision-making.
 
 <img width="911" height="427" alt="query2" src="https://github.com/user-attachments/assets/95da14db-0a23-4711-a346-423745036761" />
 
-3.  Query 3 lists each country, its GDP, carbon emissions, and GDP per ton of carbon emitted. 
+3.  Query 3 lists each country, the total number of customers, the total number of orders, the total revenue generated, and assigns a performance tier based on how each country’s revenue compares to the global average.
 
-Query 3 evaluates economic efficiency in relation to environmental impact. This analysis could inform sustainability programs or investment in green technologies by showing which countries produce higher GDP per unit of pollution.
+Query 3 helps analysts compare sales performance across countries and identify which international markets are top performers, average performers, or underperforming. This information supports strategic decisions such as targeting high-value regions, reallocating marketing resources, and recognizing countries with growth potential.
 
 <img width="913" height="424" alt="query3" src="https://github.com/user-attachments/assets/9b4c66c4-b9bb-4e18-98bd-0a182d68f00b" />
 
-4.  Query 4 lists each country, its GDP, GDP per tax percentage, and a tax category (High or Low). 
+4.  Query 4 lists each artist’s name, the total number of albums and tracks they have, the total revenue generated from their music, and assigns a demand category based on how many tracks were sold (very high, high, moderate, or low demand).
 
-Query 4 examines whether higher taxes suppress economic growth. This could influence fiscal policy decisions or corporate investment strategies by highlighting countries where tax burden corresponds with economic performance.
+Query 4 helps analysts identify which artists are most popular and generate the highest demand among customers. This information can guide decisions related to promotions, featured playlists, licensing investments, and understanding which artists contribute most to overall store performance.
 
 <img width="913" height="427" alt="query4" src="https://github.com/user-attachments/assets/a1971a10-d302-469c-9924-43d3d893452a" />
 
-5.  Query 5 lists each country, its population, GDP, and GDP per capita. 
+5.  Query 5 lists each employee’s name, job title, days employed, the total revenue generated from their assigned customers, and their average revenue per customer.
 
-Query 5 measures economic output per person, helping analysts compare living standards or evaluate economic efficiency. These insights can support development planning or global market assessments.
+Query 5 helps identify which employees contribute the most to company revenue, allowing managers to evaluate performance, recognize top performers, and determine where additional training or support may be needed. This analysis supports workforce planning, sales strategy, and customer relationship management.
 
 <img width="913" height="428" alt="query5" src="https://github.com/user-attachments/assets/efd94541-e4da-499a-98f1-556a877c16c4" />
 
