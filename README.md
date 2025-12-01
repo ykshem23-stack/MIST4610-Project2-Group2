@@ -2,7 +2,7 @@
 
 ## Team Members
 - Yesha Gandhi
-- Bradley Guy
+- Haley Catudal
 - Ivan Jaiwant
 - Yusuf Kshem
 ## Data Model
