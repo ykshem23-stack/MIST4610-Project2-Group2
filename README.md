@@ -98,6 +98,8 @@ Query 5 measures economic output per person, helping analysts compare living sta
 
 
 
+## Visualizations
+
 ## Database Info
 Name of the database: cs_yrk51993
 
